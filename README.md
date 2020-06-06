@@ -174,7 +174,7 @@ root@eb51801e9211:/home/workspace# ./etl.py
 6/71 files processed.
 .
 .
-. (Ouput truncated)
+. (Output truncated)
 .
 .
 26/30 files processed.
